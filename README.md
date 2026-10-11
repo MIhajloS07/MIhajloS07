@@ -11,7 +11,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
 [![GitHub](https://img.shields.io/badge/GitHub-MIhajloS07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MIhajloS07)
 [![University](https://img.shields.io/badge/Faculty%20of%20Electronic%20Engineering-Ni%C5%A1-1f3a5f?style=for-the-badge)](https://www.elfak.ni.ac.rs/)
-![Views](https://komarev.com/ghpvc/?username=MIhajloS07&label=Profile%20views&color=2563eb&style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20roles-2ea44f?style=for-the-badge)
+
+<br/>
+
+<sub>
+<a href="#-featured-projects">🌟 Projects</a> &nbsp;·&nbsp;
+<a href="#-tech-stack">🧰 Tech stack</a> &nbsp;·&nbsp;
+<a href="#-competitions">🏆 Competitions</a> &nbsp;·&nbsp;
+<a href="#-github-stats">📊 Stats</a> &nbsp;·&nbsp;
+<a href="#-lets-connect">🤝 Contact</a>
+</sub>
 
 </div>
 
@@ -41,10 +51,17 @@ var mihajlo = new Engineer
 {
     Studies    = "Electrical Engineering & Computing @ ELFAK, Niš",
     Focus      = new[] { "Backend (ASP.NET Core)", "Embedded (Arduino)", "Desktop (C++/Qt)" },
-    Philosophy = "Build it. Test it. Containerize it. Learn from it.",
+    Philosophy = "Learn by building: with tests, containers and docs",
     Status     = "Open to internships & junior opportunities"
 };
 ```
+
+### 🎓 Education
+
+| | Institution | Field |
+|:--:|:--|:--|
+| 🏛️ | **Faculty of Electronic Engineering, University of Niš** *(current)* | Electrical Engineering & Computing |
+| 🏫 | **Technical School "Rade Metalac", Leskovac** *(graduated)* | Computer Electrical Technician |
 
 <br/>
 
@@ -212,7 +229,7 @@ CRUD REST API with unit tests.
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker&theme=dark" alt="Data"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,visualstudio,npm,linux,figma&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,visualstudio,linux,figma&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -243,7 +260,7 @@ CRUD REST API with unit tests.
 
 <div align="center">
 
-| 🥇 | Competition | Field |
+| | Competition | Field |
 |:--:|:--|:--|
 | 💻 | **ZETSS** (national) | C++ programming |
 | 🎮 | **Global Game Jam** (Metropolitan) | Game development under a deadline |
@@ -264,7 +281,7 @@ CRUD REST API with unit tests.
 
 <img src="https://streak-stats.demolab.com?user=MIhajloS07&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MIhajloS07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+<img src="https://ghchart.rshah.org/2563eb/MIhajloS07" width="100%" alt="Contribution calendar"/>
 
 <sub>Language stats show detected code in repositories, not proficiency.</sub>
 
