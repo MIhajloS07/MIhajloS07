@@ -227,10 +227,9 @@ CRUD REST API with unit tests.
 <br/>
 <img src="https://skillicons.dev/icons?i=dotnet,qt,flask,nodejs&theme=dark" alt="Frameworks"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker&theme=dark" alt="Data"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker,postman&theme=dark" alt="Data"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,npm,vscode,visualstudio,linux,figma&theme=dark" alt="Tools"/>
-
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,npm,vscode,visualstudio,linux,windows,figma&theme=dark" alt="Tools"/>
 </div>
 
 <details>
