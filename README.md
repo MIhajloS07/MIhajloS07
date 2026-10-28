@@ -32,8 +32,8 @@
 <table>
 <tr>
 <td align="center" width="25%"><h3>🎓</h3><b>1st-year student</b><br/><sub>Electrical Engineering & Computing, University of Niš</sub></td>
-<td align="center" width="25%"><h3>⚙️</h3><b>Backend</b><br/><sub>ASP.NET Core · EF Core · SQL Server · Redis · Docker</sub></td>
-<td align="center" width="25%"><h3>🔌</h3><b>Embedded & IoT</b><br/><sub>Arduino · C++ · UART · WebSocket · KiCad</sub></td>
+<td align="center" width="25%"><h3>⚙️</h3><b>Backend</b><br/><sub>ASP.NET Core · EF Core · SQL Server · Redis · Docker · NodeJs · Flask</sub></td>
+<td align="center" width="25%"><h3>🔌</h3><b>Embedded & IoT</b><br/><sub>Arduino · Raspberry Pi ·C++ · UART · WebSocket · KiCad · Linux</sub></td>
 <td align="center" width="25%"><h3>🏆</h3><b>Competitor</b><br/><sub>National C++ (ZETSS), Game Jam, STEAM & more</sub></td>
 </tr>
 </table>
@@ -61,7 +61,7 @@ var mihajlo = new Engineer
 | | Institution | Field |
 |:--:|:--|:--|
 | 🏛️ | **Faculty of Electronic Engineering, University of Niš** *(current)* | Electrical Engineering & Computing |
-| 🏫 | **Technical School "Rade Metalac", Leskovac** *(graduated)* | Computer Electrical Technician |
+| 🏫 | **Technical School "Rade Metalac", Leskovac** *(graduated)* | Computer Engineering Technician |
 
 <br/>
 
