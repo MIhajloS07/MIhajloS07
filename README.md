@@ -335,7 +335,7 @@ CRUD REST API with unit tests.
 
 ## Let's connect
 
-I'm looking for an **internship or junior role** where I can learn from experienced engineers, ship real features and grow in **backend or embedded** development.
+I'm looking for an **internship or junior role** where I can learn from experienced engineers, ship real features and grow in **backend/embedded/software** engineering/development.
 
 <div align="center">
 
