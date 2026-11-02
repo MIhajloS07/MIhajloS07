@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Mihajlo Stoiljković: Backend, Embedded, Software Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1f3a5f,100:2563eb&height=260&section=header&text=Mihajlo%20Stoiljkovi%C4%87&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Backend%20%C2%B7%20Embedded%20%C2%B7%20Software%20Engineering&descSize=20&descAlignY=62" width="100%" alt="Header"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
-[![GitHub](https://img.shields.io/badge/GitHub-MIhajloS07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MIhajloS07)
-[![University](https://img.shields.io/badge/ELFAK-Ni%C5%A1-1f3a5f?style=flat-square)](https://www.elfak.ni.ac.rs/)
-![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20roles-2ea44f?style=flat-square)
+<a href="https://github.com/MIhajloS07">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Electrical+Engineering+%26+Computing+%40+ELFAK+Ni%C5%A1;I+build+REST+APIs+with+ASP.NET+Core+%26+Redis;I+build+desktop+apps+with+C%2B%2B+%26+Qt;I+build+IoT+systems+with+Arduino;Open+to+internships+%26+junior+roles+%F0%9F%9A%80" alt="Typing animation"/>
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
+[![GitHub](https://img.shields.io/badge/GitHub-MIhajloS07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MIhajloS07)
+[![University](https://img.shields.io/badge/Faculty%20of%20Electronic%20Engineering-Ni%C5%A1-1f3a5f?style=for-the-badge)](https://www.elfak.ni.ac.rs/)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20roles-2ea44f?style=for-the-badge)
 
 <sub>
-<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-<a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
-<a href="#courses--certificates">Courses</a> &nbsp;·&nbsp;
-<a href="#competitions">Competitions</a> &nbsp;·&nbsp;
-<a href="#github-stats">Stats</a> &nbsp;·&nbsp;
-<a href="#lets-connect">Contact</a>
+<a href="#featured-projects">🌟 Projects</a> &nbsp;·&nbsp;
+<a href="#tech-stack">🧰 Tech stack</a> &nbsp;·&nbsp;
+<a href="#courses--certificates">📜 Courses</a> &nbsp;·&nbsp;
+<a href="#competitions">🏆 Competitions</a> &nbsp;·&nbsp;
+<a href="#github-stats">📊 Stats</a> &nbsp;·&nbsp;
+<a href="#lets-connect">🤝 Contact</a>
 </sub>
 
 </div>
@@ -91,7 +95,9 @@ IoT street lighting and smart traffic light, built as a team project.
 A production-style **REST API** for tracking users and recurring subscriptions: multi-currency, categories, payment dates and filtering. It uses **cache-aside with Redis**, **EF Core migrations**, DTOs, health checks and Swagger docs. The whole stack starts with **one command** (`docker compose up`).
 
 <details>
-<summary><b>What's inside (click to expand)</b></summary>
+<summary><b>What's inside · animated request flow (click to expand)</b></summary>
+
+<img src="assets/api-flow.svg" width="100%" alt="Cache-aside request lifecycle: cache miss then cache hit"/>
 
 ```mermaid
 flowchart LR
@@ -123,7 +129,9 @@ flowchart LR
 A modern **C++17 / Qt** desktop app for managing **employees, projects and assignments**, backed by **Microsoft SQL Server**. It has a live dashboard (headcount, active projects, payroll), a polymorphic domain model (`Worker` / `Manager`), validated forms and a **dark/light theme** driven by one QSS template.
 
 <details>
-<summary><b>Highlights (click to expand)</b></summary>
+<summary><b>Highlights · animated request flow (click to expand)</b></summary>
+
+<img src="assets/worksphere-flow.svg" width="100%" alt="WorkSphere request lifecycle"/>
 
 ```mermaid
 flowchart LR
@@ -152,10 +160,10 @@ flowchart LR
 
 A **team project (Team Smartanci)**: an IoT system where **four HC-SR04 ultrasonic sensors** detect vehicles and an **Arduino Uno R4 WiFi** creates a *moving corridor of light* that follows traffic, saving energy. A second **Arduino Uno R3** runs a smart traffic light over **UART**. It includes a **live web dashboard hosted on the Arduino**, a **C# admin app** and a **.NET MAUI feedback app**. It also has 3D-printed models of the traffic light and street mockup.
 
-<img src="assets/smart-street.svg" width="100%" alt="Cascading street light animation"/>
-
 <details>
-<summary><b>How it works (click to expand)</b></summary>
+<summary><b>How it works · animated light logic (click to expand)</b></summary>
+
+<img src="assets/smart-street.svg" width="100%" alt="Cascading street light animation"/>
 
 ```mermaid
 flowchart LR
