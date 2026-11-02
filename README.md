@@ -1,39 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1f3a5f,100:2563eb&height=260&section=header&text=Mihajlo%20Stoiljkovi%C4%87&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Backend%20%C2%B7%20Embedded%20%C2%B7%20Software%20Engineering&descSize=20&descAlignY=62" width="100%" alt="Header"/>
+<img src="assets/hero.svg" width="100%" alt="Mihajlo Stoiljković: Backend, Embedded, Software Engineering"/>
 
-<a href="https://github.com/MIhajloS07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Electrical+Engineering+%26+Computing+%40+ELFAK+Ni%C5%A1;I+build+REST+APIs+with+ASP.NET+Core+%26+Redis;I+build+desktop+apps+with+C%2B%2B+%26+Qt;I+build+IoT+systems+with+Arduino;Open+to+internships+%26+junior+roles+%F0%9F%9A%80" alt="Typing animation"/>
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
-[![GitHub](https://img.shields.io/badge/GitHub-MIhajloS07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MIhajloS07)
-[![University](https://img.shields.io/badge/Faculty%20of%20Electronic%20Engineering-Ni%C5%A1-1f3a5f?style=for-the-badge)](https://www.elfak.ni.ac.rs/)
-![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20roles-2ea44f?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
+[![GitHub](https://img.shields.io/badge/GitHub-MIhajloS07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MIhajloS07)
+[![University](https://img.shields.io/badge/ELFAK-Ni%C5%A1-1f3a5f?style=flat-square)](https://www.elfak.ni.ac.rs/)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20roles-2ea44f?style=flat-square)
 
 <sub>
-<a href="#-featured-projects">🌟 Projects</a> &nbsp;·&nbsp;
-<a href="#-tech-stack">🧰 Tech stack</a> &nbsp;·&nbsp;
-<a href="#-courses--certificates">📜 Courses</a> &nbsp;·&nbsp;
-<a href="#-competitions">🏆 Competitions</a> &nbsp;·&nbsp;
-<a href="#-github-stats">📊 Stats</a> &nbsp;·&nbsp;
-<a href="#-lets-connect">🤝 Contact</a>
+<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
+<a href="#courses--certificates">Courses</a> &nbsp;·&nbsp;
+<a href="#competitions">Competitions</a> &nbsp;·&nbsp;
+<a href="#github-stats">Stats</a> &nbsp;·&nbsp;
+<a href="#lets-connect">Contact</a>
 </sub>
 
 </div>
 
-## ⚡ In 10 seconds
+## In 10 seconds
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>🎓</h3><b>1st-year student</b><br/><sub>Electrical Engineering & Computing, University of Niš</sub></td>
-<td align="center" width="25%"><h3>⚙️</h3><b>Backend</b><br/><sub>ASP.NET Core · EF Core · SQL Server · Redis · Docker · NodeJs · Flask</sub></td>
-<td align="center" width="25%"><h3>🔌</h3><b>Embedded & IoT</b><br/><sub>Arduino · Raspberry Pi ·C++ · UART · WebSocket · KiCad · Linux</sub></td>
-<td align="center" width="25%"><h3>🏆</h3><b>Competitor</b><br/><sub>National C++ (ZETSS), Game Jam, STEAM & more</sub></td>
+<td align="center" width="25%"><b>1st-year student</b><br/><sub>Electrical Engineering & Computing, University of Niš</sub></td>
+<td align="center" width="25%"><b>Backend</b><br/><sub>ASP.NET Core · EF Core · SQL Server · Redis · Docker · NodeJs · Flask</sub></td>
+<td align="center" width="25%"><b>Embedded & IoT</b><br/><sub>Arduino · Raspberry Pi ·C++ · UART · WebSocket · KiCad · Linux</sub></td>
+<td align="center" width="25%"><b>Competitor</b><br/><sub>National C++ (ZETSS), Game Jam, STEAM & more</sub></td>
 </tr>
 </table>
 
-## 👋 About me
+## About me
 
 I'm Mihajlo, a **Computer Electrical Technician** (graduate of *Rade Metalac*, Leskovac) and now a first-year student at the **Faculty of Electronic Engineering, University of Niš**.
 
@@ -49,37 +45,53 @@ var mihajlo = new Engineer
 };
 ```
 
-### 🎓 Education
+<img src="assets/pipeline.svg" width="100%" alt="hardware, firmware, backend, UI"/>
 
-| | Institution | Field |
+### Education
+
+| # | Institution | Field |
 |:--:|:--|:--|
-| 🏛️ | **Faculty of Electronic Engineering, University of Niš** *(current)* | Electrical Engineering & Computing |
-| 🏫 | **Technical School "Rade Metalac", Leskovac** *(graduated)* | Computer Engineering Technician |
+| 01 | **Faculty of Electronic Engineering, University of Niš** *(current)* | Electrical Engineering & Computing |
+| 02 | **Technical School "Rade Metalac", Leskovac** *(graduated)* | Computer Engineering Technician |
 
-## 🌟 Featured projects
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
+## Featured projects
 
-<a href="https://github.com/MIhajloS07/Personal-Finance-Subscription-Tracker-Web-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIhajloS07&repo=Personal-Finance-Subscription-Tracker-Web-API&theme=tokyonight&hide_border=true" alt="Finance API"/>
-</a>
-<a href="https://github.com/MIhajloS07/WorkSphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIhajloS07&repo=WorkSphere&theme=tokyonight&hide_border=true" alt="WorkSphere"/>
-</a>
-<a href="https://github.com/MIhajloS07/Smart-City-Infrastructure-Smart-Street-Lighting-Smart-Traffic-Light">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIhajloS07&repo=Smart-City-Infrastructure-Smart-Street-Lighting-Smart-Traffic-Light&theme=tokyonight&hide_border=true" alt="Smart City"/>
-</a>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</div>
+**[Finance & Subscription Tracker API](https://github.com/MIhajloS07/Personal-Finance-Subscription-Tracker-Web-API)**<br/>
+<sub>ASP.NET Core · EF Core · SQL Server · Redis · Docker</sub><br/>
+REST API with Redis caching, 54 passing tests and one-command Docker setup.
 
-### 1️⃣ Personal Finance & Subscription Tracker API
+</td>
+<td width="33%" valign="top">
+
+**[WorkSphere](https://github.com/MIhajloS07/WorkSphere)**<br/>
+<sub>C++17 · Qt Widgets · SQL Server · CMake</sub><br/>
+Desktop workforce management app with live dashboard and dark/light themes.
+
+</td>
+<td width="33%" valign="top">
+
+**[Smart City Infrastructure](https://github.com/MIhajloS07/Smart-City-Infrastructure-Smart-Street-Lighting-Smart-Traffic-Light)**<br/>
+<sub>Arduino · C++ · C# · .NET MAUI · WebSocket</sub><br/>
+IoT street lighting and smart traffic light, built as a team project.
+
+</td>
+</tr>
+</table>
+
+### 01 · Personal Finance & Subscription Tracker API
 
 <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-12-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-2022-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Tests-54%2F54%20passing-4CAF50?style=flat-square"/>
 
 A production-style **REST API** for tracking users and recurring subscriptions: multi-currency, categories, payment dates and filtering. It uses **cache-aside with Redis**, **EF Core migrations**, DTOs, health checks and Swagger docs. The whole stack starts with **one command** (`docker compose up`).
 
 <details>
-<summary><b>🔍 What's inside (click to expand)</b></summary>
+<summary><b>What's inside (click to expand)</b></summary>
 
 ```mermaid
 flowchart LR
@@ -102,16 +114,16 @@ flowchart LR
 
 </details>
 
-[![Repo](https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github)](https://github.com/MIhajloS07/Personal-Finance-Subscription-Tracker-Web-API)
+[![Repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github)](https://github.com/MIhajloS07/Personal-Finance-Subscription-Tracker-Web-API)
 
-### 2️⃣ WorkSphere: Desktop workforce management
+### 02 · WorkSphere: Desktop workforce management
 
 <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-Widgets-41CD52?style=flat-square&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-Express-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-build-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
 
 A modern **C++17 / Qt** desktop app for managing **employees, projects and assignments**, backed by **Microsoft SQL Server**. It has a live dashboard (headcount, active projects, payroll), a polymorphic domain model (`Worker` / `Manager`), validated forms and a **dark/light theme** driven by one QSS template.
 
 <details>
-<summary><b>🔍 Highlights (click to expand)</b></summary>
+<summary><b>Highlights (click to expand)</b></summary>
 
 ```mermaid
 flowchart LR
@@ -132,16 +144,18 @@ flowchart LR
 
 </details>
 
-[![Repo](https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github)](https://github.com/MIhajloS07/WorkSphere)
+[![Repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github)](https://github.com/MIhajloS07/WorkSphere)
 
-### 3️⃣ Smart City Infrastructure: Street Lighting & Traffic Light
+### 03 · Smart City Infrastructure: Street Lighting & Traffic Light
 
 <img src="https://img.shields.io/badge/Arduino-R4%20WiFi%20%2B%20R3-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-Firmware-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-Admin%20app-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%20MAUI-Mobile-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-Dashboard-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 A **team project (Team Smartanci)**: an IoT system where **four HC-SR04 ultrasonic sensors** detect vehicles and an **Arduino Uno R4 WiFi** creates a *moving corridor of light* that follows traffic, saving energy. A second **Arduino Uno R3** runs a smart traffic light over **UART**. It includes a **live web dashboard hosted on the Arduino**, a **C# admin app** and a **.NET MAUI feedback app**. It also has 3D-printed models of the traffic light and street mockup.
 
+<img src="assets/smart-street.svg" width="100%" alt="Cascading street light animation"/>
+
 <details>
-<summary><b>🔍 How it works (click to expand)</b></summary>
+<summary><b>How it works (click to expand)</b></summary>
 
 ```mermaid
 flowchart LR
@@ -163,30 +177,30 @@ flowchart LR
 
 </details>
 
-[![Repo](https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github)](https://github.com/MIhajloS07/Smart-City-Infrastructure-Smart-Street-Lighting-Smart-Traffic-Light)
-[![Website](https://img.shields.io/badge/Team%20website-Live-2563eb?style=for-the-badge&logo=netlify&logoColor=white)](https://statuesque-pudding-4a326c.netlify.app/)
+[![Repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github)](https://github.com/MIhajloS07/Smart-City-Infrastructure-Smart-Street-Lighting-Smart-Traffic-Light)
+[![Website](https://img.shields.io/badge/Team%20website-Live-2563eb?style=flat-square&logo=netlify&logoColor=white)](https://statuesque-pudding-4a326c.netlify.app/)
 
-### 🗂️ More from my GitHub
+### More from my GitHub
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**📡 [QtUDPServerClient](https://github.com/MIhajloS07/QtUDPServerClient)**<br/>
+**[QtUDPServerClient](https://github.com/MIhajloS07/QtUDPServerClient)**<br/>
 <sub>C++ · Qt · Winsock2</sub><br/>
 UDP client-server app with a GUI and command-based communication.
 
 </td>
 <td width="33%" valign="top">
 
-**📚 [LibrarySystem-Java](https://github.com/MIhajloS07/LibrarySystem-Java)**<br/>
+**[LibrarySystem-Java](https://github.com/MIhajloS07/LibrarySystem-Java)**<br/>
 <sub>Java 21 · SQLite · JUnit 5 · Maven · Docker</sub><br/>
 MVC library management system with automated tests.
 
 </td>
 <td width="33%" valign="top">
 
-**⛪ [Monastery-Web-API](https://github.com/MIhajloS07/Monastery-Web-API)**<br/>
+**[Monastery-Web-API](https://github.com/MIhajloS07/Monastery-Web-API)**<br/>
 <sub>Python · Flask · MySQL · Swagger · Docker</sub><br/>
 CRUD REST API with unit tests.
 
@@ -194,7 +208,9 @@ CRUD REST API with unit tests.
 </tr>
 </table>
 
-## 🧰 Tech stack
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Tech stack
 
 <div align="center">
 
@@ -205,7 +221,7 @@ CRUD REST API with unit tests.
 </div>
 
 <details>
-<summary><b>📋 What I use each for (click to expand)</b></summary>
+<summary><b>What I use each for (click to expand)</b></summary>
 
 <br/>
 
@@ -225,56 +241,67 @@ CRUD REST API with unit tests.
 
 </details>
 
-## 📜 Courses & certificates
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🌐 Cisco Networking Academy
+## Courses & certificates
 
-<a href="https://www.credly.com/badges/01959a62-f5e1-42ae-a7ef-ec5340e15fe8/public_url">
-  <img src="assets/cisco-cpp-essentials-1.png" width="130" align="left" alt="Cisco C++ Essentials 1 badge"/>
-</a>
-
-**C++ Essentials 1** (verified digital badge)<br/>
-Foundations of C++: syntax, data types, control flow, functions and basic memory handling.<br/><br/>
-[![Credly](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/01959a62-f5e1-42ae-a7ef-ec5340e15fe8/public_url)
-
-<br clear="left"/>
-
-### 🏛️ Singidunum University
+<sub>Click a thumbnail to open the full certificate or badge.</sub>
 
 <table>
+<tr><th colspan="3" align="left">Cisco Networking Academy</th></tr>
 <tr>
-<td align="center" width="33%"><img src="assets/singidunum-java-1.png" width="100%" alt="Singidunum Java course 1"/><br/><sub><b>Java</b> · course 1</sub></td>
-<td align="center" width="33%"><img src="assets/singidunum-java-2.png" width="100%" alt="Singidunum Java course 2"/><br/><sub><b>Java</b> · course 2</sub></td>
-<td align="center" width="33%"><img src="assets/singidunum-javascript.png" width="100%" alt="Singidunum JavaScript course"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><a href="https://www.credly.com/badges/01959a62-f5e1-42ae-a7ef-ec5340e15fe8/public_url"><img src="assets/cisco-cpp-essentials-1.png" width="90" alt="C++ Essentials 1"/></a></td>
+<td><b>C++ Essentials 1</b><br/><sub>Verified digital badge · syntax, data types, control flow, functions</sub></td>
+<td align="center" width="170"><a href="https://www.credly.com/badges/01959a62-f5e1-42ae-a7ef-ec5340e15fe8/public_url"><img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B00?style=flat-square" alt="Verify on Credly"/></a></td>
+</tr>
+<tr><th colspan="3" align="left">Singidunum University</th></tr>
+<tr>
+<td align="center"><a href="assets/singidunum-java-1.png"><img src="assets/singidunum-java-1.png" width="90" alt="Java 1"/></a></td>
+<td><b>Java</b> <sub>(1/2)</sub><br/><sub>Singidunum University · certificate</sub></td>
+<td align="center"><a href="assets/singidunum-java-1.png"><img src="https://img.shields.io/badge/View-certificate-1f3a5f?style=flat-square" alt="View certificate"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/singidunum-java-2.png"><img src="assets/singidunum-java-2.png" width="90" alt="Java 2"/></a></td>
+<td><b>Java</b> <sub>(2/2)</sub><br/><sub>Singidunum University · certificate</sub></td>
+<td align="center"><a href="assets/singidunum-java-2.png"><img src="https://img.shields.io/badge/View-certificate-1f3a5f?style=flat-square" alt="View certificate"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/singidunum-javascript.png"><img src="assets/singidunum-javascript.png" width="90" alt="JavaScript"/></a></td>
+<td><b>JavaScript</b><br/><sub>Singidunum University · certificate</sub></td>
+<td align="center"><a href="assets/singidunum-javascript.png"><img src="https://img.shields.io/badge/View-certificate-1f3a5f?style=flat-square" alt="View certificate"/></a></td>
+</tr>
+<tr><th colspan="3" align="left">SoloLearn</th></tr>
+<tr>
+<td align="center"><sub>SoloLearn</sub></td>
+<td><b>All completed courses</b><br/><sub>Full list of finished courses and certificates on my public profile</sub></td>
+<td align="center"><a href="https://www.sololearn.com/en/profile/30513559"><img src="https://img.shields.io/badge/Open-profile-149EF2?style=flat-square" alt="SoloLearn profile"/></a></td>
 </tr>
 </table>
 
-### 🧠 SoloLearn
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-Completed courses and certificates from the platform, all visible on my public profile.
-
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-View%20all%20completed%20courses-149EF2?style=for-the-badge)](https://www.sololearn.com/en/profile/30513559)
-
-## 🏆 Competitions
+## Competitions
 
 <div align="center">
 
-| | Competition | Field |
+| # | Competition | Field |
 |:--:|:--|:--|
-| 💻 | **ZETSS** (national) | C++ programming |
-| 🎮 | **Global Game Jam** (Metropolitan) | Game development under a deadline |
-| 🚀 | **Galaksija Cup** | Technical challenges |
-| 🔬 | **STEAM Challenge** | Interdisciplinary team project |
-| 💼 | **Business Challenge** | Teamwork & idea development |
+| 01 | **ZETSS** (national) | C++ programming |
+| 02 | **Global Game Jam** (Metropolitan) | Game development under a deadline |
+| 03 | **Galaksija Cup** | Technical challenges |
+| 04 | **STEAM Challenge** | Interdisciplinary team project |
+| 05 | **Business Challenge** | Teamwork & idea development |
 
 </div>
 
-## 📊 GitHub stats
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## GitHub stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MIhajloS07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIhajloS07&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top languages"/>
+[![Followers](https://img.shields.io/github/followers/MIhajloS07?style=flat-square&logo=github&color=1f3a5f)](https://github.com/MIhajloS07?tab=followers)
+[![Repos](https://img.shields.io/badge/Repositories-View%20all-2563eb?style=flat-square&logo=github)](https://github.com/MIhajloS07?tab=repositories)
 
 <img src="https://streak-stats.demolab.com?user=MIhajloS07&theme=tokyonight&hide_border=true" alt="Streak"/>
 
@@ -284,29 +311,30 @@ Completed courses and certificates from the platform, all visible on my public p
 
 </div>
 
-## 🌱 Currently learning
+## Currently learning
 
 <div align="center">
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-API%20design-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity%20Framework-Data%20modeling-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-%26%20Data%20Structures-2563eb?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-HW%2FSW%20interaction-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-API%20design-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework-Data%20modeling-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-%26%20Data%20Structures-2563eb?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded-HW%2FSW%20interaction-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 </div>
 
-## 🤝 Let's connect
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Let's connect
 
 I'm looking for an **internship or junior role** where I can learn from experienced engineers, ship real features and grow in **backend or embedded** development.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MIhajloS07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MIhajloS07)
 
-**Build it. Test it. Containerize it. Learn from it.** ✨
+**Build it. Test it. Containerize it. Learn from it.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1f3a5f,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
