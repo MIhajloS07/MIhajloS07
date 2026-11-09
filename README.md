@@ -347,5 +347,9 @@ I'm looking for an **internship or junior role** where I can learn from experien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihajlo-stoiljkovic-aa1560355/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MIhajloS07)
 
+<div align="center">
+    <img src="assets/banner.gif" alt="Banner" width="100%">
+</div>
+
 **Build it. Test it. Containerize it. Learn from it.**
 </div>
