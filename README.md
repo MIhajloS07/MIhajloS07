@@ -308,12 +308,17 @@ CRUD REST API with unit tests.
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/MIhajloS07?style=flat-square&logo=github&color=1f3a5f)](https://github.com/MIhajloS07?tab=followers)
-[![Repos](https://img.shields.io/badge/Repositories-View%20all-2563eb?style=flat-square&logo=github)](https://github.com/MIhajloS07?tab=repositories)
-
-<img src="https://streak-stats.demolab.com?user=MIhajloS07&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-<img src="https://ghchart.rshah.org/2563eb/MIhajloS07" width="100%" alt="Contribution calendar"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-timeline?username=mihajlos07&mode=light" />
+  <img src="https://www.gitskins.com/api/section/story-timeline?username=mihajlos07&mode=dark" width="100%" alt="Contributions week by week, with my longest streak" />
+</picture>
+<br>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mihajlos07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251505713%3Fu%3D75476ca5c6c6768ac9dd8758d3420d3a860d8c0d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mihajlos07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251505713%3Fu%3D75476ca5c6c6768ac9dd8758d3420d3a860d8c0d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mihajlo Stoiljković contribution activity" />
+</picture>
+</p>
 
 <sub>Language stats show detected code in repositories, not proficiency.</sub>
 
@@ -343,6 +348,4 @@ I'm looking for an **internship or junior role** where I can learn from experien
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MIhajloS07)
 
 **Build it. Test it. Containerize it. Learn from it.**
-
-
 </div>
