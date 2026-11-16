@@ -33,6 +33,44 @@
 </tr>
 </table>
 
+# Statistics for the profile README
+
+## 1. "At a glance" card
+
+Put `assets/at-a-glance.svg` in your `assets/` folder, then add this right below the "In 10 seconds" table:
+
+```html
+<img src="assets/at-a-glance.svg" width="100%" alt="54 automated tests, 6 public projects, 5 competitions, 4 certificates"/>
+```
+
+## 2. Auto-updating activity stats
+
+Setup (about 10 minutes):
+
+1. Create a **Personal access token (classic)** at https://github.com/settings/tokens with `read:user` and `public_repo`.
+2. In the `MIhajloS07/MIhajloS07` repository go to *Settings → Secrets and variables → Actions → New repository secret*. Name it `METRICS_TOKEN` and paste the token.
+3. Add `.github/workflows/metrics.yml` to that repository.
+4. Go to *Actions → Metrics → Run workflow*. After a few minutes three SVGs appear in `assets/`.
+5. Add this to the README, for example above "Currently learning":
+
+```html
+## Activity
+
+<div align="center">
+
+<img src="assets/metrics-overview.svg" width="100%" alt="Most used languages and repositories"/>
+
+<img src="assets/metrics-calendar.svg" width="100%" alt="Contribution calendar for the last year"/>
+
+<img src="assets/metrics-habits.svg" width="100%" alt="Commit habits"/>
+
+<sub>Updated automatically every day. Shows detected code in repositories, not proficiency.</sub>
+
+</div>
+```
+
+Your existing `gitskins` cards can stay. If you don't like one of the three cards, delete its step from `metrics.yml` and its image from the README.
+
 ## About me
 
 I'm Mihajlo, a **Computer Electrical Technician** (graduate of *Rade Metalac*, Leskovac) and now a first-year student at the **Faculty of Electronic Engineering, University of Niš**.
