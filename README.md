@@ -345,14 +345,6 @@ CRUD REST API with unit tests.
 ## GitHub stats
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-timeline?username=mihajlos07&mode=light" />
-  <img src="https://www.gitskins.com/api/section/story-timeline?username=mihajlos07&mode=dark" width="100%" alt="Contributions week by week, with my longest streak" />
-</picture>
-<br>
-<p align="center">
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mihajlos07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251505713%3Fu%3D75476ca5c6c6768ac9dd8758d3420d3a860d8c0d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=mihajlos07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251505713%3Fu%3D75476ca5c6c6768ac9dd8758d3420d3a860d8c0d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mihajlo Stoiljković contribution activity" />
 </picture>
