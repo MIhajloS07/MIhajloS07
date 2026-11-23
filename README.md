@@ -27,8 +27,8 @@
 <table>
 <tr>
 <td align="center" width="25%"><b>1st-year student</b><br/><sub>Electrical Engineering & Computing, University of Niš</sub></td>
-<td align="center" width="25%"><b>Backend</b><br/><sub>ASP.NET Core · EF Core · SQL Server · Redis · Docker · NodeJs · Flask</sub></td>
-<td align="center" width="25%"><b>Embedded & IoT</b><br/><sub>Arduino · Raspberry Pi ·C++ · UART · WebSocket · KiCad · Linux</sub></td>
+<td align="center" width="25%"><b>Backend</b><br/><sub>ASP.NET Core · EF Core · Relational Databases · Redis · Docker · NodeJs · Flask</sub></td>
+<td align="center" width="25%"><b>Embedded & IoT</b><br/><sub>Arduino · ESP32 · Raspberry Pi · C++ · Python · Serial/Parallel Protocols · WebSocket · KiCad · Linux</sub></td>
 <td align="center" width="25%"><b>Competitor</b><br/><sub>National C++ (ZETSS), Game Jam, STEAM & more</sub></td>
 </tr>
 </table>
